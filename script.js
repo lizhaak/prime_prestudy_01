@@ -1,1 +1,5 @@
-console.log("Hey this works!")
+function checkIfThisWorks(){
+  console.log("Hey this works!");
+}
+
+checkIfThisWorks();
